@@ -1,6 +1,6 @@
 # Screen Text Translator
 
-An Electron-based desktop application that allows you to capture screen areas and translate text.
+An Electron JS based desktop application that allows you to capture screen areas and translate text.
 
 ![Application Screenshot](assets/icon.png)
 
